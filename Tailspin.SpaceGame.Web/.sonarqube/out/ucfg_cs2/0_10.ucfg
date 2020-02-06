@@ -1,0 +1,37 @@
+
+-TailSpin.SpaceGame.Web.Program.Main(string[])[
+QC:\Users\stephen\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Program.cs ("0*È
+0‹
+ˆ
+[
+QC:\Users\stephen\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Program.cs
+ 
+(&2
+%0,Microsoft.AspNetCore.Hosting.IWebHostBuilder"=TailSpin.SpaceGame.Web.Program.CreateWebHostBuilder(string[])*"" 
+TailSpin.SpaceGame.Web.Program*
+
+argsstring[]‚ÿ
+[
+QC:\Users\stephen\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Program.cs
+ 
+(.+
+%1%Microsoft.AspNetCore.Hosting.IWebHost"4Microsoft.AspNetCore.Hosting.IWebHostBuilder.Build()*4
+2
+%0,Microsoft.AspNetCore.Hosting.IWebHostBuilder2Build()ª
+§
+[
+QC:\Users\stephen\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Program.cs
+ 
+(4
+
+%2void"YMicrosoft.AspNetCore.Hosting.WebHostExtensions.Run(Microsoft.AspNetCore.Hosting.IWebHost)*2"0
+.Microsoft.AspNetCore.Hosting.WebHostExtensions*-
++
+%1%Microsoft.AspNetCore.Hosting.IWebHost*
+1*w
+1"r
+[
+QC:\Users\stephen\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\Program.cs (	
+implicit return:
+argsstring[]B"" 
+TailSpin.SpaceGame.Web.Program
